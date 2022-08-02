@@ -1,0 +1,10 @@
+h1  {
+    color: red;
+    text-align: center;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style:armenian;
+}
